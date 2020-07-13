@@ -6,23 +6,24 @@ This is for the first milestone project (after study of HTML5 and CSS3) while co
 
 It is hosted on [GitHub Pages] (#) and the Repository is on [GitHub] (https://github.com/CheriGore/MS1_resume_project.git).
 
-## Table of Contents
-
-
 ## License
 The project is shared for use with the GNU General Public License v3
 -This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 ## UX
+USERS
 For the purpose of showcasing HTML and CSS abilities a website is the best media.  Over time, more pages and parts can be added to present new skills learned.
 
+USER STORIES
 The main purposes of use will be:
-- Hiring managers and angencies who can be directed to the pages as proof of skill levels, in the hope of gaining emplyment.
-- Other interested students who may peruse the pages and study the source code for comparison or further learning.
+- Club members and parents who can be directed to basic information, the learning games and required contacts.
+- Other interested parties that might want to become club members and their parents.
+- Other interested students of coding who may peruse the pages and study the source code for comparison or further learning.
+- Other interested students of cyber security that might want to know about the scheme.
 - Peers with similar skills that may be directed to these pages to help test and advise on their suitability and function.
 - Testers with varying skills that can advise of UX and personal preferences.
 
-### Design
+DESIGN
 All pages will include a static navigation panel at the top and a static panel footer with media links and webmaster details.
 The first page (index) will welcome the students, list the governing bodies most recent news items provide the first look at 
 the static sections.

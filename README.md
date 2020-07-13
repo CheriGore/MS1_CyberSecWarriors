@@ -4,7 +4,7 @@ On 11/06/2020 it was changed to its current purpose.  This was partly due to too
 descions and get on with the build and partly as I am volunteering as a leader for a 13-18 year old free education scheme teaching cyber security.
 This is for the first milestone project (after study of HTML5 and CSS3) while completing a diploma in fullstack development.
 
-It is hosted on [GitHub Pages] (https://github.com/CheriGore/MS1_CyberSecWarriors) and the Repository is on [GitHub] (https://github.com/CheriGore/MS1_resume_project.git).
+It is hosted on [GitHub Pages] (#) and the Repository is on [GitHub] (https://github.com/CheriGore/MS1_resume_project.git).
 
 ## Table of Contents
 
@@ -46,7 +46,7 @@ Font type Headers - Iceberg, Bold, Italic
 Font type Paragraphs - Electrolize, Normal
 
 ### Example
--The following Wireframe was created in WireframePro.
+-The following Wireframe was created in [WireframePro] (https://wireframepro.mockflow.com/view/CyberSecWarriors)
 
 -The following Mockup was created in ????????.
 

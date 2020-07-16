@@ -1,20 +1,23 @@
 # MS1_CyberSecWarriors
 In it's first version, this was a 3 page introduction to Cheri Southam's CV and proof of work during 2020 called MS1_Resume_Project.  
 On 11/06/2020 it was changed to its current purpose.  This was partly due to too much emotional interest in the project making it harder for me to simplify 
-descions and get on with the build and partly as I am volunteering as a leader for a 13-18 year old free education scheme teaching cyber security.
-This is for the first milestone project (after study of HTML5 and CSS3) while completing a diploma in fullstack development.
+descions and get on with the build and partly as I am volunteering as a leader for a 13-18 year old free education scheme teaching cyber security
+for [Cyber Discovery] (https://joincyberdiscovery.com/).
 
-It is hosted on [GitHub Pages] (#) and the Repository is on [GitHub] (https://github.com/CheriGore/MS1_resume_project.git).
+This is for the first milestone project (after study of HTML5 and CSS3) while completing a diploma in fullstack development.
+For the purpose of showcasing HTML and CSS abilities a website is the best media.  Over time, more pages and parts can be added to present new skills learned.
+
+It is hosted on [GitHub Pages] (PUT LINK HERE) and the Repository is on [GitHub] (https://github.com/CheriGore/MS1_CyberSecWarriors.git).
 
 ## License
-The project is shared for use with the GNU General Public License v3
+The project is shared for use with 21the GNU General Public License v3
 -This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 ## UX
-USERS
-For the purpose of showcasing HTML and CSS abilities a website is the best media.  Over time, more pages and parts can be added to present new skills learned.
+### USERS
+This website is primarily created for parents and students to view and access information about the Cyber Discovry scheme.
 
-USER STORIES
+### USER STORIES
 The main purposes of use will be:
 - Club members and parents who can be directed to basic information, the learning games and required contacts.
 - Other interested parties that might want to become club members and their parents.
@@ -23,31 +26,30 @@ The main purposes of use will be:
 - Peers with similar skills that may be directed to these pages to help test and advise on their suitability and function.
 - Testers with varying skills that can advise of UX and personal preferences.
 
-DESIGN
-All pages will include a static navigation panel at the top and a static panel footer with media links and webmaster details.
-The first page (index) will welcome the students, list the governing bodies most recent news items provide the first look at 
-the static sections.
-The second page (info) will give information about the scheme.
-The third page (contact) will list all the parties involved and their contact details.
+### DESIGN
+All pages will include a static navigation panel at the top and a static panel footer with media links and webmaster details:
+* The first page (index) will welcome the students, list the governing bodies most recent news items provide the first look at the static sections.
+* The second page (info) will give information about the scheme.
+* The third page (contact) will list all the parties involved and their contact details.
 
-The overall look shall be a neon cyber/dystopian/technology style. 
-There will be rounded, slanted edges and slightly neon shine and colouring.  
+The overall look shall be a neon cyber/dystopian/technology style. There will be rounded, slanted edges and slightly neon shine and colouring.  
 Color scheme consists of:
-background #020a3a
-font color, H1, H2, H3 blue #46cbd8
-font color hover blue 2 #05d9e8
-font color pink #ff2a6d
-font color hover pink 2 #e8598a
-font color white #ffffff
+* Background #020a3a
+* Font color, H1, H2, H3 blue #46cbd8
+* Font color hover blue 2 #05d9e8
+* Font color pink #ff2a6d
+* Font color hover pink 2 #e8598a
+* Font color white #ffffff
+* Opaque backgrounds #ac3585
+* Additional buttons #7465f6
+* Font type Headers - Iceberg, Bold, Italic
+* Font type Paragraphs - Electrolize, Normal
 
-Opaque backgrounds #ac3585
-Additional buttons #7465f6
+### EXAMPLES
+The following Wireframe was created in [WireframePro] (https://wireframepro.mockflow.com/view/CyberSecWarriors)
 
-Font type Headers - Iceberg, Bold, Italic
-Font type Paragraphs - Electrolize, Normal
-
-### Example
--The following Wireframe was created in [WireframePro] (https://wireframepro.mockflow.com/view/CyberSecWarriors)
+![Wireframepro index page](/images/wireframepro index page.png)
+Format: ![Alt Text](url)
 
 -The following Mockup was created in ????????.
 

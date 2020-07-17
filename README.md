@@ -48,25 +48,36 @@ Color scheme consists of:
 ### EXAMPLES
 The following Wireframe was created in [WireframePro] (https://wireframepro.mockflow.com/view/CyberSecWarriors)
 
-![Wireframepro index page](/images/wireframepro index page.png)
-Format: ![Alt Text](url)
+![Wireframepro index page](/images/wireframepro index page.png)  
+>Why doesn't this work?
 
--The following Mockup was created in ????????.
-
+-The following Mockup was created in ????????
+> do I need to do this also?  How do you wireframe then mockup? Why aren't there software doing this?
 
 These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in 
 any format that is viewable inside the browser.
 
 ## Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+On each page there can be found:
+* A navigation bar with:
+    * A CD logo linking to the Cyber Discovery website
+    * A club header title
+    * A register and login button
+    * A link to the other 2 pages
+* A footer with:
+    * Links to social media
+    * Webmaster details
+
+In the index page there is a welcome message and news from Cyber Discovery's website.
+On the info page more information about how the scheme works can be found.
+On the contacts page there are only mine and Cyber Discovery's details until I have more to list.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+Linked buttons for Cyber Discovery website allow for more information to be gained.
+The Registration and Login bottons allow the students to access the games by completing the information required and being diverted to the Cyber Discovery website.
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 - Future development could see more useful items suh as:
@@ -79,13 +90,10 @@ More social media integration such as video chat, discord group or a Twitch acco
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 - [HTML5](https://HTML5.com)
-    - The project uses **HTML5** to simplify DOM manipulation.
 
 - [CSS3](https://CSS3.com)
-    - The project uses **CSS3** to simplify DOM manipulation.
 
 - [WireframePro](https://mockflow.com/)
-    - The project uses **WireframePro** to prepare the project for build.
 
 ## Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.

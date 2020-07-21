@@ -1,4 +1,13 @@
 # MS1_CyberSecWarriors
+
+  <a href="#license">License</a> •
+  <a href="#ux">UX</a> •
+  <a href="#features">Features</a> •
+  <a href="#technologies used">Technologies Used</a> •
+  <a href="#testing">Testing</a> •
+  <a href="#deployment">Deployment</a> •
+  <a href="#credits">Credits</a>
+
 In it's first version, this was a 3 page introduction to Cheri Southam's CV and proof of work during 2020 called MS1_Resume_Project.  
 On 11/06/2020 it was changed to its current purpose.  This was partly due to too much emotional interest in the project making it harder for me to simplify 
 descions and get on with the build and partly as I am volunteering as a leader for a 13-18 year old free education scheme teaching cyber security
@@ -58,7 +67,6 @@ These files should themselves either be included as a pdf file in the project it
 any format that is viewable inside the browser.
 
 ## Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 On each page there can be found:
 * A navigation bar with:
     * A CD logo linking to the Cyber Discovery website
@@ -74,25 +82,28 @@ On the info page more information about how the scheme works can be found.
 On the contacts page there are only mine and Cyber Discovery's details until I have more to list.
  
 ### Existing Features
-Linked buttons for Cyber Discovery website allow for more information to be gained.
-The Registration and Login bottons allow the students to access the games by completing the information required and being diverted to the Cyber Discovery website.
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+* Linked buttons for Cyber Discovery website allow for more information to be gained.
+* The Registration and Login bottons allow the students to access the games by completing the information required and being diverted to the Cyber Discovery website.
+* Clear navigation to access the other pages.
+* A dystopian technology look to make it more fun and appealing to students.
+* News from the main website.
+* Links to social media.
 
 ### Features Left to Implement
-- Future development could see more useful items suh as:
-Direct access to the learning games
-A scoreboard or Table
-Automated news upload
-More social media integration such as video chat, discord group or a Twitch account.
+* Direct access to the learning games
+* A scoreboard or Table
+* Automated news upload
+* Dark/Light mode
+
+### Suggested Features
+Future development could see more useful items such as:
+* More social media integration such as video chat, discord group or a Twitch account.
+* Space allocated to students for their own personal showcases.
 
 ## Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [HTML5](https://HTML5.com)
-
+For each, provide its name, a link to its official site and a short sentence of why it was used.
+- [HTML5](https://HTML5.com) 
 - [CSS3](https://CSS3.com)
-
 - [WireframePro](https://mockflow.com/)
 
 ## Testing
